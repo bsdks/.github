@@ -2,7 +2,7 @@
 
 ****
 
-🙋‍♀️ A short introduction - We create best sdks for software
+🙋‍♀️ A short introduction - Lets create best SDKs
 
 🌈 Contribution guidelines - Just fork and contribute
 
